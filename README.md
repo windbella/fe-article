@@ -13,3 +13,6 @@
 - https://wit.nts-corp.com/2021/08/11/6461
 ### Feature-Based Architecture
 - https://medium.com/@harutyunabgaryann/building-scalable-react-applications-with-feature-based-architecture-41219d5549df
+### Atomic Design
+- https://atomicdesign.bradfrost.com/
+- https://medium.com/@wheeler.katia/thinking-about-react-atomically-608c865d2262
